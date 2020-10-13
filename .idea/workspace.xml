@@ -1,7 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="668bc50c-a9f3-42b5-99b9-151511e66a1f" name="Default Changelist" comment="" />
+    <list default="true" id="668bc50c-a9f3-42b5-99b9-151511e66a1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/a.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cchuong.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sdd.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/songuyento.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tong.html" beforeDir="false" afterPath="$PROJECT_DIR$/tong.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/while.html" beforeDir="false" afterPath="$PROJECT_DIR$/while.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,10 +41,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/vlln.html" root0="SKIP_INSPECTION" />
   </component>
   <component name="ProjectId" id="1iiM2PXJB5CaOl6ul3vTwhr8BRc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -58,14 +91,40 @@
       <workItem from="1602387621877" duration="87000" />
       <workItem from="1602391287896" duration="7152000" />
       <workItem from="1602419766844" duration="833000" />
-      <workItem from="1602467647252" duration="1261000" />
+      <workItem from="1602467647252" duration="2137000" />
+      <workItem from="1602470541310" duration="24000" />
+      <workItem from="1602474916876" duration="133000" />
+      <workItem from="1602476970257" duration="1316000" />
+      <workItem from="1602486015434" duration="9422000" />
+      <workItem from="1602503880088" duration="655000" />
+      <workItem from="1602515010827" duration="1549000" />
+      <workItem from="1602550812810" duration="1861000" />
+      <workItem from="1602552714511" duration="117000" />
+      <workItem from="1602552844023" duration="1549000" />
+      <workItem from="1602562655772" duration="661000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1602554395591">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1602554395591" />
     <state width="1345" height="238" key="GridCell.Tab.0.bottom" timestamp="1602398737752">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -130,5 +189,9 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state width="1345" height="238" key="GridCell.Tab.3.right/0.0.1366.768@0.0.1366.768" timestamp="1602398737752" />
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1602552339278">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1602552339278" />
   </component>
 </project>
